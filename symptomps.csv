@@ -1,0 +1,24 @@
+conversation_id,symptom_name,location,onset,character,severity,provoking,relieving,pattern,association,detail,duration,mechanism,depth,pain_score,source_turn
+conv-001-chest-pain,chest pressure,central,1 week ago,tightness,not specified,exertion (climbing stairs),rest within minutes,exertional only no rest pain,,,,,,,4
+conv-001-chest-pain,left arm heaviness,left arm,,,,,,,occurs with chest pressure,,,,,
+conv-001-chest-pain,exertional dyspnea,,,,,,,,,,,,,,6
+conv-002-language-barrier,headache,,since yesterday,,described as bad,,,,,,,,,,2
+conv-002-language-barrier,epigastric pain,upper abdomen / belly,,,,,,,,,,,,,2
+conv-002-language-barrier,visual disturbance,,,,,,,,,little lights in both eyes,,,,,2
+conv-002-language-barrier,hand swelling,hands,,,,,,,,ring no longer fits,2 days,,,,4
+conv-003-nurse-triage,laceration,hand,~3 hours ago,,,,,,,,,broken glass at work,deep bleeding stopped,4/10,2
+conv-003-nurse-triage,fever,,since the afternoon,,measured 38.6 C,,,,,ongoing shivering,,,,,4
+conv-003-nurse-triage,rigors,,,,,,,,,ongoing shivering,,,,,4
+conv-003-nurse-triage,wound redness and warmth,around the cut,,,,,,,skin around the cut is red and warm,,,,,,8
+conv-004-back-pain,lower back pain,lumbar region bilateral,3 days ago,dull ache,6/10,bending forward and prolonged sitting,lying flat,,,,,,,,3
+conv-004-back-pain,leg tingling,right leg posterior,2 days ago,pins and needles,,,,intermittent,occurs with back pain,,,,,5
+conv-004-back-pain,morning stiffness,lower back,,,,,eases after 30 minutes of movement,worse on waking,,,,,,3
+conv-005-pediatric-fever,fever,,last night,,,,,,,measured 39.2 C at home,12 hours,,,,2
+conv-005-pediatric-fever,ear pain,right ear,this morning,sharp,severe according to child,,,,,pulling at ear,,,,,3
+conv-005-pediatric-fever,decreased appetite,,,,,,,,,not eating since yesterday,,,,,4
+conv-005-pediatric-fever,irritability,,last night,,,,,,worse when lying down,,,,,,2
+conv-006-anxiety-chest,chest tightness,central,20 minutes ago,squeezing sensation,7/10,during work presentation,not relieved yet,episodic with stressful situations,,,,,,,2
+conv-006-anxiety-chest,palpitations,,20 minutes ago,racing heart,,,,,coincides with chest tightness,,,,,4
+conv-006-anxiety-chest,shortness of breath,,20 minutes ago,,,,,,,cannot take a deep breath,,,,,2
+conv-006-anxiety-chest,numbness,both hands fingers,20 minutes ago,tingling,,,,,started after hyperventilating,,,,,,5
+conv-006-anxiety-chest,dizziness,,20 minutes ago,lightheaded,,,,,,,,,,6

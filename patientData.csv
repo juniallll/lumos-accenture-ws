@@ -1,0 +1,11 @@
+conversation_id,patient_id,age,sex,known_conditions,current_medications,allergies,reason_for_visit,language_note,arrival_mode,gestational_age_weeks
+conv-001-chest-pain,pt_okafor,54,male,"hypertension,type 2 diabetes","lisinopril 10mg daily,metformin 500mg twice daily",penicillin,Chest discomfort over the past week,,,
+conv-002-language-barrier,pt_morales,31,female,pregnancy - 28 weeks,prenatal vitamins,none known,Abdominal pain and headache,Patient speaks Spanish; clinician speaks English; conversation conducted via hospital interpreter,,28
+conv-003-nurse-triage,pt_kovac,27,male,asthma,salbutamol inhaler as needed,none known,Cut on hand and feeling unwell,,walk-in,
+conv-004-back-pain,pt_jensen,45,male,"obesity,hyperlipidemia","atorvastatin 20mg daily,ibuprofen as needed",sulfa drugs,Lower back pain radiating to leg,,,
+conv-005-pediatric-fever,pt_chen,4,female,none,none,none known,Fever and ear pulling,,brought by parent,
+conv-006-anxiety-chest,pt_williams,29,female,generalized anxiety disorder,sertraline 50mg daily,none known,Chest tightness and palpitations,,walk-in,
+conv-007-copd-exacerbation,pt_murphy,68,male,"COPD,former smoker (40 pack-years),atrial fibrillation","tiotropium inhaler daily,apixaban 5mg twice daily,salbutamol inhaler as needed",aspirin,Worsening shortness of breath and productive cough,,ambulance,
+conv-008-abdominal-pain,pt_santos,38,female,"irritable bowel syndrome,anxiety","dicyclomine as needed,escitalopram 10mg daily",codeine,Severe abdominal cramping and nausea,,,
+conv-009-fall-elderly,pt_brennan,82,female,"osteoporosis,hypertension,mild cognitive impairment","alendronate weekly,amlodipine 5mg daily",none known,Fall at home with hip pain,,ambulance,
+conv-010-skin-rash,pt_nguyen,35,male,eczema,topical hydrocortisone as needed,shellfish,New rash spreading on arms and torso,,walk-in,
